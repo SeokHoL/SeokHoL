@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Seokho Lee, a developer.</h1>
 <h3 align="left">어제보다 오늘 더 나은 개발자로 성장하기</h3>
 
-- 🌱 현재 배우고 있는 것은: **springboot,springsecurity, springJWT**
+🌱현재 배우고 있는 것은: **springboot,springsecurity, springJWT**
 
 
 <p align="left">
