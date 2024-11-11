@@ -2,7 +2,7 @@
 <h3 align="left">어제보다 오늘 더 나은 개발자로 성장하기</h3>
 
 
-
+<!--
 <p align="left">
 </p>
 
@@ -34,4 +34,4 @@
 <h2 align="left">개발 환경</h2>
 
 ![Linux](https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) -->
